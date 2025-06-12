@@ -1,6 +1,7 @@
 # Hybrid RAG Workflow with n8n and Supabase
 
 A comprehensive document processing and retrieval system that combines semantic search with full-text search capabilities using n8n automation and Supabase vector database.
+![hybrid_rag](https://github.com/user-attachments/assets/83d5180d-bd7e-482a-938e-3b75b259184d)
 
 ## Overview
 
